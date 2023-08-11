@@ -16,4 +16,6 @@ const API_KEY = "YOUR_NASA_API_KEY"
 ## Acknowledgments
 Special thanks to NASA for providing the APOD API. The full documentation for the APOD API can be found at the [APOD API GitHub repository](https://github.com/nasa/apod-api).
 
+> ![apod_screen](https://github.com/AnouarElKihal/apod/assets/68613907/63cbd480-6504-410e-b710-ec138a315049)
+
 You can find it online at this url: https://apod.eabug.repl.co/
