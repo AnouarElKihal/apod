@@ -10,7 +10,7 @@ To begin using the NASA APOD API, follow these steps:
 
 2. Once you have the API make sure to replace YOUR_NASA_API_KEY in the API_KEY variable in the JavaScript file.
 ```javascript
-const API_KEY = "YOUR_NASA_API_KEY"
+> const API_KEY = "YOUR_NASA_API_KEY"
 ```
 
 ## Acknowledgments
