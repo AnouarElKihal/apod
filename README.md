@@ -9,8 +9,8 @@ To begin using the NASA APOD API, follow these steps:
 > ![nasa_api_signup](https://github.com/AnouarElKihal/apod/assets/68613907/05605677-30e8-4164-839c-8e07da8a7b39)
 
 2. Once you have the API make sure to replace YOUR_NASA_API_KEY in the API_KEY variable in the JavaScript file.
-```javascript
-> const API_KEY = "YOUR_NASA_API_KEY"
+>```javascript
+const API_KEY = "YOUR_NASA_API_KEY"
 ```
 
 ## Acknowledgments
