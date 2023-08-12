@@ -18,4 +18,5 @@ Special thanks to NASA for providing the APOD API. The full documentation for th
 
 ## Live Application
 You can find it online at this url: https://apod.eabug.repl.co/
-> ![apod_screen](https://github.com/AnouarElKihal/apod/assets/68613907/63cbd480-6504-410e-b710-ec138a315049)
+> ![apod_screen](https://github.com/AnouarElKihal/apod/assets/68613907/c44362c5-b77f-4de3-a782-48f07c63dc05)
+
