@@ -1,7 +1,7 @@
 # APOD
 This project utilizes the Astronomy Picture of the Day (APOD) API provided by NASA to retrieve captivating images from the cosmos.
 The APOD API allows you to fetch a wide range of astronomy-related images based on a specified date, and it offers features such as single date search,
-date range search, and the option to obtain high-resolution images.
+date range search, and the option to obtain high-resolution images
 
 ## Getting Started
 To begin using the NASA APOD API, follow these steps:
