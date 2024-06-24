@@ -4,7 +4,7 @@ The APOD API allows you to fetch a wide range of astronomy-related images based 
 date range search, and the option to obtain high-resolution images.
 
 ## Getting Started
-To begin using the NASA APOD API, follow these steps
+To begin using the NASA APOD API, follow these steps:
 1. Sign up for a NASA API key by visiting [NASA API Registration](https://api.nasa.gov/index.html#signUp).
 > ![nasa_api_signup](https://github.com/AnouarElKihal/apod/assets/68613907/05605677-30e8-4164-839c-8e07da8a7b39)
 
