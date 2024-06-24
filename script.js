@@ -18,7 +18,7 @@ const thirdSearchBtn = document.getElementById("thirdSearchBtn")
 
 const mediaContainer = document.querySelector(".mediaContainer")
 
-const API_KEY = "YOUR_NASA_API_KEY"
+const API_KEY = "qCFecuLC2qewhfJrBhL4zKzccDzwiVu7N4VJRRFa" // Replace with 'YOUR_NASA_API_KEY'
 
 const fetchData = (userInput) => {
     try {
